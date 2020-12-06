@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc1edb27-cab0-4f42-a490-5ef1b0841269" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcUDvTMzeZ3wIAQgmXmqt5ctRW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EXT02D17721\IdeaProjects\seleniumwebdriverexample\driver" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EXT02D17721\IdeaProjects\seleniumwebdriverexample\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Login.LoginPage (1)">
+    <configuration name="Login.LoginPage (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trendyol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LOGIN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LOGIN" />
+      <option name="MAIN_CLASS_NAME" value="LOGIN.Login" />
+      <option name="METHOD_NAME" value="LoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.LoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trendyol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Deneme" />
+      <option name="MAIN_CLASS_NAME" value="Deneme.Login" />
+      <option name="METHOD_NAME" value="LoginPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.ProductAddDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trendyol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deneme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Deneme" />
+      <option name="MAIN_CLASS_NAME" value="Deneme.Login" />
+      <option name="METHOD_NAME" value="ProductAddDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product.ProductAddDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trendyol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PRODUCT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PRODUCT" />
+      <option name="MAIN_CLASS_NAME" value="PRODUCT.Product" />
+      <option name="METHOD_NAME" value="ProductAddDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search.SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Trendyol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEARCH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SEARCH" />
+      <option name="MAIN_CLASS_NAME" value="SEARCH.Search" />
+      <option name="METHOD_NAME" value="SearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Login.LoginPage (1)" />
+        <item itemvalue="JUnit.Search.SearchTest" />
+        <item itemvalue="JUnit.Product.ProductAddDelete" />
+        <item itemvalue="JUnit.Login.ProductAddDelete" />
+        <item itemvalue="JUnit.Login.LoginPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc1edb27-cab0-4f42-a490-5ef1b0841269" name="Default Changelist" comment="" />
+      <created>1581344759654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581344759654</updated>
+      <workItem from="1581344762963" duration="4352000" />
+      <workItem from="1581349298933" duration="50000" />
+      <workItem from="1602502163244" duration="2840000" />
+      <workItem from="1602506865053" duration="3264000" />
+      <workItem from="1602513094741" duration="3220000" />
+      <workItem from="1607112128235" duration="10411000" />
+      <workItem from="1607162440592" duration="237000" />
+      <workItem from="1607162949057" duration="9329000" />
+      <workItem from="1607180803669" duration="940000" />
+      <workItem from="1607182269017" duration="1965000" />
+      <workItem from="1607184426463" duration="301000" />
+      <workItem from="1607195433782" duration="3127000" />
+      <workItem from="1607252704947" duration="17406000" />
+      <workItem from="1607283822722" duration="621000" />
+      <workItem from="1607284564994" duration="681000" />
+      <workItem from="1607285710744" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
