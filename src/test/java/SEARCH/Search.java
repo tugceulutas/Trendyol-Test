@@ -23,8 +23,6 @@ public class Search {
         //browser'ı maksimum boyuta getirir
         driver.manage().window().maximize();
 
-
-        //reklamı kapatır
         WebElement genderPopup = driver.findElement(By.xpath("//*[@class='fancybox-item fancybox-close']"));
         genderPopup.click();
 
@@ -39,7 +37,7 @@ public class Search {
         WebElement password = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@name='login-password']")));
         password.sendKeys("135246Aa");
 
-        //search kutucuğuna bilgisayar kelimesini yazar
+        //search kutucuğuna çanta kelimesini yazar
         WebElement search = driver.findElement(By.xpath("//input[@class='search-box']"));
         search.sendKeys("çanta");
         search.sendKeys(Keys.ENTER);
