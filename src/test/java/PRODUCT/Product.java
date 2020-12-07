@@ -31,7 +31,7 @@ public class Product {
         email.sendKeys("tugce.cancel@gmail.com");
 
         WebElement password = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@name='login-password']")));
-        password.sendKeys("Karpuzkavun1236");
+        password.sendKeys("135246Aa");
 
 
         WebElement loginBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[contains(@type,'sub')]")));
@@ -65,9 +65,8 @@ public class Product {
         sepettenSil.click();
         WebElement silBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@class='btn-item btn-remove']")));
        ////*[@class='btn-item btn-remove']
-
         silBtn.click();
-        System.out.print("Pass");
+        
 
     }
 
